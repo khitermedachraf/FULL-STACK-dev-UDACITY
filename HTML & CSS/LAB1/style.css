@@ -1,0 +1,36 @@
+img {
+    width: 300px;
+}
+
+#interesting-fact {
+    font-style: italic;
+}
+
+span {
+    font-weight: bold;
+}
+
+#facts {
+    list-style-type: none;
+}
+
+h1 {
+    border: 2px solid white;
+}
+
+img,
+.animal-info,
+#container {
+    border: 2px solid grey;
+    margin: 10px;
+}
+
+#card {
+    padding: 10px;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
